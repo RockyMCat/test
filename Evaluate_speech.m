@@ -24,6 +24,7 @@
 % or implied warranty.
 %
 
+close all;
 close all; 
 clear all;
 
